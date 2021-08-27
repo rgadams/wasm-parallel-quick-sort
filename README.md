@@ -1,0 +1,1 @@
+To compile webassembly module, install wasm-pack and run wasm-pack build --target web
